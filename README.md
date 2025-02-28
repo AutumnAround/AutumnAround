@@ -1,4 +1,4 @@
-## 👋 Yo, I'm Nik (or Nikita, whichever you prefer)  
+## 👋 Hi / Hola, I'm Nik (or Nikita, whichever you prefer)  
 I'm learning web development and working towards becoming a Full-Stack (or at least a Frontend) Developer.  
 
 ### 🚀 At the moment:  
@@ -16,4 +16,7 @@ I'm learning web development and working towards becoming a Full-Stack (or at le
 
 ### 📂 Learning Repositories  
 These repositories contain coding exercises, practice projects, and small experiments:  
-- **Will be added after organizing in 2-3 days**  
+- **Will be added after organizing in 2-3 days**
+
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AutumnAround&show_icons=true&theme=dark)
+
