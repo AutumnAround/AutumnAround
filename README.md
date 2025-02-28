@@ -15,8 +15,14 @@ I'm learning web development and working towards becoming a Full-Stack (or at le
 - 🔨 **Currently in development**  
 
 ### 📂 Learning Repositories  
-These repositories contain coding exercises, practice projects, and small experiments:  
-- **Will be added after organizing in 2-3 days**
+   🛠 Frontend Fundamentals  
+- 📌 **Repository:** [Frontend-Fundamentals](https://github.com/AutumnAround/Frontend-Fundamentals)  
+- 📖 **Description:** A collection of basic frontend exercises covering HTML, CSS, and JavaScript.  
+
+  ⚛️ React Practice App  
+- 📌 **Repository:** [React Practice App](https://github.com/AutumnAround/React-practice-app)  
+- 🎯 **Description:** A simple React project for learning component-based architecture and state management.  
+
 
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AutumnAround&show_icons=true&theme=dark)
 
